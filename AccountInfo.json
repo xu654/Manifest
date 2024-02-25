@@ -1,7 +1,9 @@
 {
   "AccountName": "peel38898",
-  "AccountPassword": "i0d8alpr",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTE4NDc3NzgxMyIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTExMDE1NDAsICJuYmYiOiAxNjk5ODgxMjAzLCAiaWF0IjogMTcwODUyMTIwMywgImp0aSI6ICIwRUYxXzIzRkVENzc3XzA5MjQ2IiwgIm9hdCI6IDE3MDg1MjEyMDMsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC4xNjguMTU5LjE1NiIsICJpcF9jb25maXJtZXIiOiAiMjAuMTY4LjE1OS4xNTYiIH0.iuuTBpkB55gFubX1y0Yy80QlcuXQChQjnJLkTmRCauTpP0pPaGKONgY7vdTlQjmCiodasNf8rqqSzvyTbx-aBA",
+  "AccountPassword": "Wx/FibCZk3kwrsPC0e/8gQ==",
+  "RefreshToken": "ifGgcSRes09rukHdlRIWE37/+Rvbl33frjs8vJsYP8quJN2ZaC9yguqBmPzZTXDEO5Gypgl5fAmROHcOfeKpDBMpktRFhE7ZIDURnfWf34q1XltEkAdxBUuX1ju0n52ZaEA3ZUyt8eESw3y6fOMDiEWc2+mt+opJmVLmV2dLvEeGyblcMGfWoR2XdYuSwwpjt8YYvObkPtBFTW79YhLcyH3DVPfFGEQsBQ2yEg9xI4zTwWBP79YIc0dfovQo+3giNFfA29G1URrksqnDknVwQpPunw+SEnR/UU78EK5725t47NfTjDBgl2+v/6dNR5IZjb8dbpBcecduOgPM/Qq+c8au1YFrVQ21b0wjlf4ZdZYAosWCBhI4cm5Ae1ca5ytOWExxzGYBRYvt9e1KM1BwlzkU6aQGjlWSzOLuTWJr+6HkmF6BEUx7NwK+k0cX4rCxdvf+QJzbXZImWn5fOlovQMbKcUqh79ZFK5jaMGaAwHZukRpJgvz+wNPvtSbdETFzHYJe0+Tj9Bqd5f2eiK9BSBDdZx8q7+Wl78ZK06aKSVWw8s4B6xVj+4/lzktEhRq2d5FJ+hZJFLmNGUbjtwi2z8M/1VCpjblcOlBVqw20V6bngtvjJh7TrHvkvtqA36NUReVPgDqqqJAuR9SEdMc1iWVJxrPLoD+emlQWFs/wXnw=",
   "LastRefresh": "2024-02-21T13:13:24.8342028+00:00",
-  "Index": "AKFT6-T8TC"
+  "Index": "AKFT6-T8TC",
+  "AesEncrypted": true,
+  "AesIV": "+PQhFpE3nWoNVR4jXVzblg=="
 }
