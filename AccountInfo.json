@@ -1,7 +1,9 @@
 {
   "AccountName": "fjgep43542",
-  "AccountPassword": "zuobiao1258",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTIyMjgyOTUwMSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEzMTMwMjcsICJuYmYiOiAxNzAwMDM0Njk1LCAiaWF0IjogMTcwODY3NDY5NSwgImp0aSI6ICIwRUYzXzIzRkVENzhBX0I4RTQ2IiwgIm9hdCI6IDE3MDg2NzQ2OTUsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC4xMDkuMzguMTU3IiwgImlwX2NvbmZpcm1lciI6ICIyMC4xMDkuMzguMTU3IiB9.OmMj_t3SwBZF2kcygF1-lEJEI-2FizYm4SF8iscp3ShWeAQ80BUPsQ3bCcOAzBhJ61-JwWB5rLDbHLjLC50bDg",
+  "AccountPassword": "5LFDoPbhV7fTgwtvhfShhg==",
+  "RefreshToken": "pU3ms0X7bPdTbnLjv1ybZu43SePQjgxUKh95F0xQ0EVaHZFjISFOKcVcnv/PYJ+Fj3YtsU7tfDjOBueloIrIelSdEhPmHNWR2sRSEH45A+9548lmfxTl/NApS+7ObGKvjyylgGEqhmRTxVnATVHpJ+X+jCEPuBrZBTBBENTUpd8iDB9+oR8Ad0yElQA6csQdNPRIkwdIpJzQiFgRJEtTyPGZxT5JOXIGwCAIdBjfG0vKYjpegvQpCazuGzw/dtCjkRKxw0eW0/7n3TFZryfsYlTdFmJh3CWp7HyetnzpsSx2WrK2te4MLHswzSjS+pPWj1LlXbdaMrWtsxaN/VqWjqwtekbgEFHhDYw4ydoRUEhSmklC6D1E5vW5ieVtvIp11dttxFRUGKg05NsnQKwcG9Sd0l6Penb681piagpw0edco3GQeVbT4q2tUpcylHXaWnO4V8ZQvfa2HU7RjI8COGw5ELdwqoOe9bu2scXpT82Du9Qv3Nwh48LwQJgz9leMnT4Eni34kDo+i8WLRA7zezqoybqOyr/obPLOio10AgLWXmQRX9HMsC1U8t5pA4Ly0MyPKfFEAEfa0rinVbDh1IMO9f3X5HsXP4MOZWrBPiezBsW5OKrklgrcHjk+H8G34gmvJ6GGfEkMyvyysPQkeQ==",
   "LastRefresh": "2024-02-23T07:51:36.5772706+00:00",
-  "Index": "SL52T-VJVN"
+  "Index": "SL52T-VJVN",
+  "AesEncrypted": true,
+  "AesIV": "qsrFxOzOuD5pxbVu4+yzZg=="
 }
