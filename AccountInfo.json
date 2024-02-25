@@ -1,7 +1,9 @@
 {
   "AccountName": "okpgl742",
-  "AccountPassword": "tij8881U",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTE2ODM3NDg3MiIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEzMDE2MDUsICJuYmYiOiAxNzAwMDM0MjI2LCAiaWF0IjogMTcwODY3NDIyNiwgImp0aSI6ICIwRUYzXzIzRkVENzhBX0E2MUY4IiwgIm9hdCI6IDE3MDg2NzQyMjYsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC44MS4xNTkuODEiLCAiaXBfY29uZmlybWVyIjogIjIwLjgxLjE1OS44MSIgfQ.2eY8p45k2B_o8uxSCkFrgn57e9ZY0GvcEpOXb5mi6gKUgogz4yMyauNptiZvaa7ulxFsib44Tb6MdYuKyti3CQ",
+  "AccountPassword": "74LP6e/vl4PJ5h3zIk252Q==",
+  "RefreshToken": "LLyUFbPayDyh4pqWTNersrJ1wlYDKstHbrDk9wO0Oid+mcrytppt9t+uK317d+OfUIlykpH7fIQH70ErEauVKf5QhM2pFAcrkO7h5c144j3BrzrWIB7qvEktAhRh+5YP5tMkx3kgkjrWdgKAs00sIW/xMzE0TfDUyONzDyZnXZD6NvldX8XsBQsc4m9ooyvCMSPprdemBbRwQcpNdb4jVUckJVRDKZWfk02BaPlns58lATAJO3L5L+cIaXx/uemOF4BeYf3yd5Hv7/vwDa1JJkxAWviXcfjgJB0pktvzO44PAq4lYP+BMzPKRNSaMO4xm0ay2q7I2WGTgatJObXGbf7SHdc1p9TzFbQjyaUDd1xoHkqwE0YU+BihVvSsHPz1S+TwOzyIfD4chtZhPD+yza+7FWfNgmnGccT7Fcr5t8TJbDfc36rX8cgCup6fUjalXfktPZ05axjTexPb+FiCbJBRU0sjPcne0SnawGH0vhmO7LfKjaar/M5PEA8+vEY3L8AP8dbenJI2JKZnk4LUnGgqbKvIcd2PNScCq5ZRw9ZnEvqWM/yf0c2jxIbR71sfu6ia2VIzR3hd63ZY6qEDQS005JI1GcWuiH/NUwdU+ggpu6yxjs05v66eyR/c98siVfrQ4rWz3CJ/UZkrzUDJDg==",
   "LastRefresh": "2024-02-23T07:43:46.8769704+00:00",
-  "Index": "AFCWU-WBVA"
+  "Index": "AFCWU-WBVA",
+  "AesEncrypted": true,
+  "AesIV": "2ej93YxZdqhCHGAZPYi3xg=="
 }
