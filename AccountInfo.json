@@ -1,7 +1,9 @@
 {
   "AccountName": "liugetuerq16",
-  "AccountPassword": "dd.520ee.viP",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTM4NjUyMzk2MSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEyMjk4MjQsICJuYmYiOiAxNzAwMDI1MTE3LCAiaWF0IjogMTcwODY2NTExNywgImp0aSI6ICIwRUVFXzIzRkVENzgxXzc0MTE3IiwgIm9hdCI6IDE3MDg2NjUxMTcsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIxMy44Ny4yNDMuMzkiLCAiaXBfY29uZmlybWVyIjogIjEzLjg3LjI0My4zOSIgfQ.qRQRBjh_OnZIaddMhrSSraf-Htv9583aC8HhR756tZVBDyIfFHr1Gp0AYxJrkc4qNaD6OQbG_S3iy-VrRQ3uAQ",
+  "AccountPassword": "9XlctCWQXe0x/t75F99U6w==",
+  "RefreshToken": "nryQkhPPEJMuTQigTEBBp69gapWtIcbDGR+T3JOETD+6773mMnDO1r53TaaE9PhKqyHzADJG9V9IpErcJxR4hz0//H7ZdGzMF4N0Kcl3rG9zsmyV4E1ylffw37W+g8k6nGCYe4BYUfAesAcLjQv0rfxc3bqvmE7EmcbqdME0Bkq8TVEg/sP7uZufOKdF1gQ/NER/1fhiUHBkfvqHF5WS0ETLyvDPjAOwk8jSKd17IqBz6ADxaulSq1ilSo2uOAX/4RMvB8Hw3MWEgCNWcVJa52OYIvfpw7FMEI5zyxopFnpOu/Xt5rfBrftf1vwxIxe5XVyjmJj0n3n0n4dQPS7mRjuY/d3r/1D/faXKEcQVdEdk7HX+mG9MS39Waa9f2a3sJWOrM5oJbrhs2bbypufeB8i40SCOtwLOpGgQTZlFPuM/q+AE8x/On4CbD9/eaPEY6fb+wQYd4Jph+A+jew028wXqJ9GpXN6+lLNm0Jxdv2PFCf4rGvpWGU0B/M2V0feUkahaiK81JLehMENySDOwEcGPvy+ek3zyn6m4z1dfDjp1RgB4u3jqCL6MiKZEJUH4Od9OnBKcrLmxihNqP94JfRogLejzdTodNY/9xhHfCAU+289Gp+qlDKS38/R+rxNKT6QNP7GUHpmn4l4azpZNTg==",
   "LastRefresh": "2024-02-23T05:11:58.5476599+00:00",
-  "Index": "SJYWC-RAXG"
+  "Index": "SJYWC-RAXG",
+  "AesEncrypted": true,
+  "AesIV": "nob6UVXZNou2UWtai0+shQ=="
 }
