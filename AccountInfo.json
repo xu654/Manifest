@@ -1,7 +1,9 @@
 {
   "AccountName": "vzdp40382",
-  "AccountPassword": "zuobiao2345",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTIyMTcyOTkzNSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEzMTQwNTUsICJuYmYiOiAxNzAwMDM1OTYzLCAiaWF0IjogMTcwODY3NTk2MywgImp0aSI6ICIwRUVFXzIzRkVENzgzXzIzQkZGIiwgIm9hdCI6IDE3MDg2NzU5NjMsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC41NS4xMjYuMzciLCAiaXBfY29uZmlybWVyIjogIjIwLjU1LjEyNi4zNyIgfQ.lLodmy6SzE5LL8CroTqX-SgUPRj7C0g8NmqEKo4hbjQlxaC9ju5dehwIY5fDdSPqhMvLqozYSGbCRqs4jfdoCw",
+  "AccountPassword": "tLkUTC45Fp1AfRjJYt8AYQ==",
+  "RefreshToken": "9/ma4dIgWAUQXNkaYRHw46+BvTecWe6ZdbRsHKHbCdLHL/TmZIaYTBbHBcjAI1ZnNB/clmdipT9KJAAevwv/6pIB9ZkTlMrU7lbRMQ1gbo+vYfZpBabL4ZdwoeP7cShbBIkIBgqjGlVya4fxWu4jTbLlUf557SKQ+nlFXFgnfMXBgEdwAQqbqdU+ehY3oEA/GiMDvDZr0rRWlekzdRITAiqx7OKJZg2kSAie4JaLWzCP1peM71rqrc6Ha4ToZAlfh0kL+MLfgivERtlQHlxelUsM/voskAsVW4ac84pUC2sGgeqdzb1ldELbeZxhCb3vtysP7H0YYDxIWRB90KjwXMk5jayE22ekn1LVcduu1U3Ijx2IPH9SOhVtmYi3X9jUuyqiKZGDw0dN0d9jfuuDtphiE2aQwAkMEozXZ5kK+/SVYHUvYttIJx/AVoWc0wXj9csSlq2rER9o15rQAh0METF44psaLNTFh6iLYDAQqKsVkYM/sw5JwfCyuaBhKafX0NhpeucWeww4dj6kipvFm+wUqbXoUWsHZkwn04OhpCE6+y+ylaA8aPkW5e0hOXbZQtJZE8aAQ/YltWkiO/ihrsDhWa3ruVd4BfcjDGpIetXCCffY6ZGNJ+opAZosZdnMerJddhBYOTpqRzul/2uIpg==",
   "LastRefresh": "2024-02-23T08:12:43.6640906+00:00",
-  "Index": "A4DFS-YHSQ"
+  "Index": "A4DFS-YHSQ",
+  "AesEncrypted": true,
+  "AesIV": "9bw1T+G8qOhqFLpPYnTRlA=="
 }
