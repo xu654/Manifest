@@ -1,7 +1,9 @@
 {
   "AccountName": "kapk876",
-  "AccountPassword": "steamgocom",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTA4MTc4NzY4OSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEyNjYyNTUsICJuYmYiOiAxNzAwMDM2NzYyLCAiaWF0IjogMTcwODY3Njc2MiwgImp0aSI6ICIwRUUzXzIzRkVENzg5X0M0QTQzIiwgIm9hdCI6IDE3MDg2NzY3NjIsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC4xNzIuMi4xMDAiLCAiaXBfY29uZmlybWVyIjogIjIwLjE3Mi4yLjEwMCIgfQ.4czmQJdEIquMfnkOVZIKSIpYlQFpVPjdGUD7F5aHd_wxCQKloHok-5P7D_nQLwvxQCq_ZNqvxu2sWaXm6yTsAQ",
+  "AccountPassword": "OolWdprB+PYyjAe1FWFSzw==",
+  "RefreshToken": "ooiQaHLwU0H2ZY+RJUWmqseDFrc8/ZBbWiV/B7k7PXuPX08ZeJUbR40c9mqxmpbuo3KGSjCcIToqLbbzyjdedcvfOD/IgCHxNqBXiyGpe/fvEUdTEVfrlEWC9M2rPIlDzWqykF40Gv4lBlJNQiRxB3k1ekoCz7y8lkwoJYcNIYuy8DJXMgAEGQFHgt4fXZwXkkl+myhunqQkTFcDjZaDhwtfqpghuQT/G4IqqAiI9UYTAzsKAkasDgrkJbBqmKONLK4Q1sIBdGxLHBTQkifGo8eVsB/2kam4JE3cgGAWQocBYPBblF9WqyDcgaOgFtvs4nJJ2I+hbfx8SMSsnuTvuAI+O/U6VzBQfIV2p7hzRQpH/WHiCRVeyspGDw/DoXRi2rvx9waQIbIgcFKRj9ZsAndUqPvg7ZTwwW6mLYkUzyVRn/L1nPvZ09ru1bBtNtK57nScqS5OKzQFhoknsd5rHNV84Sa4nLPNdC46oVQe2Tw1DaBvemkBGxoAi2aLpqJaaSq5mWAdo94cOQNQBBQc6zk+CzDw1JJypVot/E3jih9EshIPbeXdemlhLlSHbWlR3Fs+jIFlKVonHQXqZmurRxSi4aU0LEmTtiY4BOsPy0XrLta2QiE6YJIB7D+Ak2LWwOD4dZH2XjFwwTjbbP+VTQ==",
   "LastRefresh": "2024-02-23T08:26:03.1993906+00:00",
-  "Index": "SN4JK-B4SJ"
+  "Index": "SN4JK-B4SJ",
+  "AesEncrypted": true,
+  "AesIV": "GJpEN271cQXa74K+OCeHoQ=="
 }
