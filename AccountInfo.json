@@ -1,7 +1,9 @@
 {
   "AccountName": "liugetusdkka",
-  "AccountPassword": "DD.520Ee.Vip",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTM4Mzg0OTQxMSIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEyODQ2NTksICJuYmYiOiAxNzAwMDM0NTEyLCAiaWF0IjogMTcwODY3NDUxMiwgImp0aSI6ICIwRUU5XzIzRkVENzhFX0U4RUY4IiwgIm9hdCI6IDE3MDg2NzQ1MTIsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC4xMDkuMzguMTkyIiwgImlwX2NvbmZpcm1lciI6ICIyMC4xMDkuMzguMTkyIiB9.-Oi2_pcIRyGppiTH46ZSLYkqGMpbPpiA-IdFeLOP35qyEx1k7nYGM8kaUcX3852JSfVuFvnahJRomtlRrO-fCA",
+  "AccountPassword": "pbR2dbC/1Poqef69TmT7PQ==",
+  "RefreshToken": "7ZyIFYYvxQQkoEAnnQOI7OCyzvzfrjk3MSnXps/yVLHZFKd+/fmzjgci9+7lDMxZXuYVkTbGxoGGzZjyiF7a6sWoeVUU8vc0NLl73zkheeHSG6UVNZetf1PrMSBOa1dyE+VwO4+PUTfkAhFe8jnTvH3V46Xr7bAAGHmjbnvpP5UsxHdOySHCESvCEvdt0tyD3qK5TPqu+nZB8GciLunU4L8KvKhCxZ5WJ14Luusrm2Ol0fBJH35Erb629q3t/CHyKaZDVat/0q8rc7juNoACACs1Os0OXj/XyaWTNf9BaHqkWlW7262HWmN3wjbZEcQRnmP0WLqwu3KXpEvFL7QRVaB5Ao2MzqjcSwNTFdYjjEBtdPudWyQdCnxybDsDHpZa0aLx1+gkcIUbsnCbN6B/pAsEVYTROx9T2IdHj3H0W7xYzxPNXNdb6TamnuNkOb+Aw5yxpeHH3LVkdoiBgxV90oC8eAWRfgsB5hfQAk7+k5hcIH8qH1IG7Cs2NWtQJvt0qIguDkCthcQzS7tG/2xL+j/D0uUHpNHDUmyhXeuAZ4iw33teGe618fqgwQlv3q3Sahz+ae1wnrVItVbtrBoDpL17t4TKFhLn7tmofboE64TsJtgyFMbAWOgSpFqjO8aNd/W1LL2i4HjWkm5pTm+2rQ==",
   "LastRefresh": "2024-02-23T07:48:32.9843886+00:00",
-  "Index": "A92EL-L4YC"
+  "Index": "A92EL-L4YC",
+  "AesEncrypted": true,
+  "AesIV": "SnJf2o+x2+JSLpq8UQUptA=="
 }
