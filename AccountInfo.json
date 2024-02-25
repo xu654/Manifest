@@ -1,7 +1,9 @@
 {
   "AccountName": "youzai6324",
-  "AccountPassword": "Leyouz4292",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTM4OTQ2NzE4MiIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTExOTg5OTYsICJuYmYiOiAxNjk5OTcyNDM0LCAiaWF0IjogMTcwODYxMjQzNCwgImp0aSI6ICIwRUVEXzIzRkVENzc5X0Y1QTAwIiwgIm9hdCI6IDE3MDg2MTI0MzQsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC41NS4yMTQuMjQwIiwgImlwX2NvbmZpcm1lciI6ICIyMC41NS4yMTQuMjQwIiB9.rUnvRhOhohqK-rJsdtM_UejQ9p_maBjALvrt1xOTqk9iPRGE-Rja_DLzrmniko2g4ZWhSlleVxQyK5JG49EFBg",
+  "AccountPassword": "VZz88GJ8qp1aQqw1tevNug==",
+  "RefreshToken": "TKsd0/ClnuV5GNJogGDxxC47/zeX0UzXRTFHJJuCDX9VoUb+LnJk2ds3p3kCs+rQABApBOcOiERzgsKOEWP0EC9Qk6GvW/uj/H3wf/ZIm5t7xemSeVr4k2nxqaep8/5twmVVVcd0/CiWt/2W8i9eECuisOvGq6hBsFj9ypuL9lx+x1DGIjJDVIwn2aeVRw2qOYVrSImebhsoqy7Usd9zMipIdFrDtx3vZoqR8zP5jkwh1/eARiEM1xErsmsoi8tPzAVQ2TAydDJus10+7UVJPPrR+YGIMaDJn8Ihp5Po4tFqYpwix6XR4w7S+/nW8fjOQsgDSvY3od/3wtaFqcs3I9e3gSLdN6BaAnwpa9MvCwNfDGDA58zqUGryxlyV9k9h40GT6INLdfZa7bfLFk8+3+XdPrDQEsP4oxKv86UqwQuhJUBTXne5sx99koCcwsg5V/FVztQf5RB2WkzgJRoVDYwBYvlS3Pew75OR4N4UQ9oaFioK8KQ45WK1fmZ2YGE59lIFSTdFmZjetacIe5jDVKTv+ilRCVOJheUgSyCr5HqaoAyDVfIqE1Ib0wPwxnSqSckGtH6RjvCD+iQ+VQ0mgj0nIrzO7lZIQZzvkkbe75OCrozjtbM/BMe1YF3ClRvpggvCrJeB3PLaBKeNjxCkGA==",
   "LastRefresh": "2024-02-22T14:33:55.9954149+00:00",
-  "Index": "SSHB9-QFWE"
+  "Index": "SSHB9-QFWE",
+  "AesEncrypted": true,
+  "AesIV": "9sJdC6SRbPgD2WpYJ+lTgw=="
 }
