@@ -1,7 +1,9 @@
 {
   "AccountName": "gu3oj1ww7br1",
-  "AccountPassword": "www.520CU.Com",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTM2MTUxMjQ2NiIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEwMDEyMTgsICJuYmYiOiAxNjk5NzYxMjQ2LCAiaWF0IjogMTcwODQwMTI0NiwgImp0aSI6ICIxNjJGXzIzRjcwNjc0X0M2MzQ1IiwgIm9hdCI6IDE3MDg0MDEyNDYsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIxNzIuMjMzLjgxLjczIiwgImlwX2NvbmZpcm1lciI6ICIxNzIuMjMzLjgxLjczIiB9.JmvPUIJNwutHay6KCdN7zbsLeK_ucoXqF8ChxNXVsK-o3JUflmc3ySqHqO1EWDvctirpEkn-gtTYXO5NO_2BDw",
+  "AccountPassword": "LvWCUPHwXeOKEpbTm49s2w==",
+  "RefreshToken": "+s/6SFmGZASUmxVF+Ss2HhI8s3X33O1iV+FwIDGyE7+4sLCotmD8cHYeLyIIoeyt+1BZ1XReGb91Ei/maAEA5a8t5DCieL/zi6znGH495lkgIm4If/i/54k6Lxzhw3LmweUKeUqzaxWxy/Fmtq4ZIHLoRneKCZAlGU9vNaVo3jtbE9EunqXyb8SdMDYqehYN+664DpNJK1Vch/wtd07Vqe8IRyZHp644KbWvKwf8w8q0JkPncSiHOengmZiXQfSVyNNzqg/eG4rXkwO7c/uxxiX49e+sOtCkQ2D5W4c07r4KmnFyzW6LIOp5QFn2LSdV1J4haXEqxR26shci7HrVeUNyPBY+j7sUBz9UrVvkNNsjhPMBBgZICGGJcTKVFCU4026/Vtp2QeHhI9DK0RJwfNI+Jv1ETmoV/EivinGPrfsRS12VLzmUDZ49FbngLq8aaD+rCW+w3iRRQ0O/tV4/BHUznz4UUbykIzAHq0jpUwNdqjM1MVQu1xxVbNestYjs9yWFB6xnq1GnttgbcKBSBN6nmwew/XARzA07XQ5GMIZa4i7ndmNVXL2HzdX7NeiZEOxVqMBHgr1rqarS6NCJkhn1a2GNlsqhVHtjC7lpu5WG3X/f5b9B6/Z86kuf7nlzt+Knh7tuwFLXDkibw816PA==",
   "LastRefresh": "2024-02-20T03:54:07.5672111+00:00",
-  "Index": "ASJUF-FTXQ"
+  "Index": "ASJUF-FTXQ",
+  "AesEncrypted": true,
+  "AesIV": "dvl+hSduhb+tYn7sgW/Pqg=="
 }
