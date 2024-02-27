@@ -1,7 +1,9 @@
 {
   "AccountName": "witek2322",
-  "AccountPassword": "70Games.net90",
-  "RefreshToken": "eyAidHlwIjogIkpXVCIsICJhbGciOiAiRWREU0EiIH0.eyAiaXNzIjogInN0ZWFtIiwgInN1YiI6ICI3NjU2MTE5OTEyNTI3NzM3MCIsICJhdWQiOiBbICJjbGllbnQiLCAid2ViIiwgInJlbmV3IiwgImRlcml2ZSIgXSwgImV4cCI6IDE3MTEyODYwMzQsICJuYmYiOiAxNzAwMDU0MzcxLCAiaWF0IjogMTcwODY5NDM3MSwgImp0aSI6ICIwRUUwXzIzRkVEN0YyXzA5NEQ5IiwgIm9hdCI6IDE3MDg2OTQzNzEsICJwZXIiOiAwLCAiaXBfc3ViamVjdCI6ICIyMC4xMDIuNDYuMTUxIiwgImlwX2NvbmZpcm1lciI6ICIyMC4xMDIuNDYuMTUxIiB9.lkkcLCbNfZ_Jm6FHAYaUJeHN4KaK5gfsRvy1p5SWj97Va3wF0oXS3cHfnuLegZ0lpnk4lzqYjf915TWpohZEBg",
-  "LastRefresh": "2024-02-23T13:19:32.1405065+00:00",
-  "Index": "SUG7A-LQUE"
+  "AccountPassword": "Ga4hjHby66ZZjcND6iBktA==",
+  "RefreshToken": "Q03395A9xijlNXSHYXaR+68O6cMmW6sL5EUNVzZVwztHo5/Slcynk3MyGvm8wLPnK5HG2sWN9CviGjnCHv6ecY3/fOB308g1brGfm3PMlGBEhxs7sjDNt54iOD+qPuG+EBD67Nv/5tQDdp5KVB3SDWThX9YvJys//j7saaDxzUPxps4Lx9sp67eQF29wEa5Pss9+TrU9VWi2rHKII0oGwsXF8J1mk5aTwlhAtdbUOfwgFMxopxBhnPMPkLoZ1+lqbd4pNTZCfiLWdW/Z+5dhkzLGgTjScJpI/5pGi0q5s/n+gcH65RsA2FnYzibSuIYeQRptoxKMoC/uqJMTeSNKZ7hVIpq+7rA+6Hn+8F+RX+qllH84kWa3eks19iB/IKe4ckjdJSi44pOT8wCwRgPnxCTWzzpBJqm33pSxKylO/Ji7ubwgCw7nqMWVUaN7ll8cS9aj55zNjaGEdXd9z/sX2jqhbE5sNumHZLXTF9fM8okRe5u9+0gtQs/XaKp4SMW1Bn5hrJssKihMfwRzefrIYormkA4Iu5tINlih7Vh2fAu0alGWzjhs6xZO/sCJXohxH2DWtowjIlRIuloSlAR18jNf8+AsX1GsX6WsIiRHi+jn5dqJAedSPMO8RhQ84U7V2mj6A/Pg7Bo752dWmj6EPg==",
+  "LastRefresh": "2024-02-27T02:44:27.630604+00:00",
+  "Index": "SUG7A-LQUE",
+  "AesEncrypted": true,
+  "AesIV": "6b5f7N36eR4vI3q1fznt2Q=="
 }
