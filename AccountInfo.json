@@ -5,5 +5,19 @@
   "LastRefresh": "2024-05-28T23:15:23.0560517+00:00",
   "Index": "S32MA-SBSG",
   "AesEncrypted": true,
-  "AesIV": "9bKascUqNo6Tb6xWLk7qzA=="
+  "AesIV": "9bKascUqNo6Tb6xWLk7qzA==",
+  "AppIds": [
+    992300,
+    1111500,
+    1121960,
+    1155760,
+    1215220,
+    1215230,
+    1295130,
+    1295180,
+    1295190,
+    1329260,
+    1329261,
+    1329264
+  ]
 }
