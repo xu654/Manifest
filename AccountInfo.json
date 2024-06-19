@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-23T23:37:26.2533755+00:00",
   "Index": "STK77-T2UL",
   "AesEncrypted": true,
-  "AesIV": "aUDOkJtlYR192OdAWoX/UQ=="
+  "AesIV": "aUDOkJtlYR192OdAWoX/UQ==",
+  "AppIds": [
+    1700870
+  ]
 }
