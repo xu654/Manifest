@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-30T09:21:37.3429802+00:00",
   "Index": "SDMCC-KLTN",
   "AesEncrypted": true,
-  "AesIV": "OM83SsWZ+mr2Ocii0Ved8A=="
+  "AesIV": "OM83SsWZ+mr2Ocii0Ved8A==",
+  "AppIds": [
+    518790,
+    997010,
+    2009550
+  ]
 }
