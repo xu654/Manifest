@@ -5,5 +5,17 @@
   "LastRefresh": "2024-06-09T15:18:47.8152379+00:00",
   "Index": "ACJRN-WGTN",
   "AesEncrypted": true,
-  "AesIV": "HlwabvoLv09w/uRG+Dgaxg=="
+  "AesIV": "HlwabvoLv09w/uRG+Dgaxg==",
+  "AppIds": [
+    447040,
+    525000,
+    525011,
+    525012,
+    525013,
+    525030,
+    525031,
+    525032,
+    555240,
+    558380
+  ]
 }
