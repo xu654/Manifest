@@ -5,19 +5,5 @@
   "LastRefresh": "2024-05-24T06:39:37.4515469+00:00",
   "Index": "AFCWU-WBVA",
   "AesEncrypted": true,
-  "AesIV": "2ej93YxZdqhCHGAZPYi3xg==",
-  "AppIds": [
-    1307580,
-    1386780,
-    1643230,
-    1643231,
-    1811230,
-    1869410,
-    1968890,
-    1968891,
-    1968892,
-    1968893,
-    1968894,
-    1968895
-  ]
+  "AesIV": "2ej93YxZdqhCHGAZPYi3xg=="
 }
