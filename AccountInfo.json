@@ -5,5 +5,13 @@
   "LastRefresh": "2024-05-23T05:37:02.2665236+00:00",
   "Index": "AYN3D-WHTQ",
   "AesEncrypted": true,
-  "AesIV": "CHQr5g1BEC52m+7km5/gSg=="
+  "AesIV": "CHQr5g1BEC52m+7km5/gSg==",
+  "AppIds": [
+    617290,
+    1147300,
+    1245150,
+    1344680,
+    1644960,
+    1692531
+  ]
 }
