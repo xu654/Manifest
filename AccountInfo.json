@@ -5,14 +5,5 @@
   "LastRefresh": "2024-05-28T22:15:54.1531041+00:00",
   "Index": "A3XLU-WGSN",
   "AesEncrypted": true,
-  "AesIV": "2d6Ia5uyHr709YflXpWy+w==",
-  "AppIds": [
-    19680,
-    761830,
-    1009560,
-    1557320,
-    1882510,
-    2255330,
-    2321830
-  ]
+  "AesIV": "2d6Ia5uyHr709YflXpWy+w=="
 }
