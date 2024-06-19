@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-30T10:23:56.6551279+00:00",
   "Index": "S58A9-KRVC",
   "AesEncrypted": true,
-  "AesIV": "tULgcPMm/HZ1wsRrSCjGew=="
+  "AesIV": "tULgcPMm/HZ1wsRrSCjGew==",
+  "AppIds": [
+    1145360
+  ]
 }
