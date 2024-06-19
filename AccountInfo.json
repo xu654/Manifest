@@ -5,5 +5,19 @@
   "LastRefresh": "2024-06-15T22:17:02.4161028+00:00",
   "Index": "APAAC-N5SN",
   "AesEncrypted": true,
-  "AesIV": "HPV9vRdvdbqltQ4DzTxVPg=="
+  "AesIV": "HPV9vRdvdbqltQ4DzTxVPg==",
+  "AppIds": [
+    270150,
+    524220,
+    580600,
+    580610,
+    583990,
+    583991,
+    583992,
+    583993,
+    583994,
+    1017430,
+    1284190,
+    1783650
+  ]
 }
