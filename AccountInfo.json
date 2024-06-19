@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-05T16:19:19.8761717+00:00",
   "Index": "SYEAE-BTSL",
   "AesEncrypted": true,
-  "AesIV": "DlRc/cdtz2AUl4Gq6cmPSg=="
+  "AesIV": "DlRc/cdtz2AUl4Gq6cmPSg==",
+  "AppIds": [
+    1135690
+  ]
 }
