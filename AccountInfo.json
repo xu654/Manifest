@@ -5,5 +5,16 @@
   "LastRefresh": "2024-06-14T09:20:46.4908979+00:00",
   "Index": "AYZEE-UGSN",
   "AesEncrypted": true,
-  "AesIV": "bk/S9Hg/qnixTbdKvQBn/A=="
+  "AesIV": "bk/S9Hg/qnixTbdKvQBn/A==",
+  "AppIds": [
+    893680,
+    989960,
+    1637230,
+    1640300,
+    1880970,
+    1880971,
+    1880972,
+    1880973,
+    1880974
+  ]
 }
