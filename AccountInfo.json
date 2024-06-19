@@ -5,11 +5,5 @@
   "LastRefresh": "2024-06-14T15:25:10.9323471+00:00",
   "Index": "AQDB2-LMUC",
   "AesEncrypted": true,
-  "AesIV": "i26v7Yyx86U9fFlm542hGw==",
-  "AppIds": [
-    253980,
-    254080,
-    860510,
-    1413420
-  ]
+  "AesIV": "i26v7Yyx86U9fFlm542hGw=="
 }
