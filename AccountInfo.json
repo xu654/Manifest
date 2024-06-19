@@ -5,5 +5,22 @@
   "LastRefresh": "2024-06-11T14:18:43.6755657+00:00",
   "Index": "ASL7U-REWA",
   "AesEncrypted": true,
-  "AesIV": "M6XAtabwMWaMLwhLucI6ZQ=="
+  "AesIV": "M6XAtabwMWaMLwhLucI6ZQ==",
+  "AppIds": [
+    289070,
+    310950,
+    404350,
+    512030,
+    512031,
+    512032,
+    512033,
+    512034,
+    512035,
+    521770,
+    597260,
+    645400,
+    645401,
+    645402,
+    947510
+  ]
 }
