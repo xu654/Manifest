@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-18T11:14:13.2125296+00:00",
   "Index": "AC945-7NYN",
   "AesEncrypted": true,
-  "AesIV": "YcV3OKGURCa95jKr9hu5EA=="
+  "AesIV": "YcV3OKGURCa95jKr9hu5EA==",
+  "AppIds": [
+    1948980
+  ]
 }
