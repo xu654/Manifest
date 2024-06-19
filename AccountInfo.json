@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-08T11:14:34.9259125+00:00",
   "Index": "SUZTK-TGVN",
   "AesEncrypted": true,
-  "AesIV": "yJ7yToInBVCZvm8BukwmKg=="
+  "AesIV": "yJ7yToInBVCZvm8BukwmKg==",
+  "AppIds": [
+    1244460,
+    1336321,
+    1336322,
+    1882470,
+    1966010,
+    2106800,
+    2177430
+  ]
 }
