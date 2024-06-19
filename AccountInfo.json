@@ -5,5 +5,20 @@
   "LastRefresh": "2024-06-13T18:25:07.9026622+00:00",
   "Index": "SKQ7T-JTSA",
   "AesEncrypted": true,
-  "AesIV": "AX75AVDdaG1M1wcxqbQVTA=="
+  "AesIV": "AX75AVDdaG1M1wcxqbQVTA==",
+  "AppIds": [
+    418370,
+    564190,
+    775500,
+    1590551,
+    1590560,
+    1590561,
+    1590562,
+    1590563,
+    1590565,
+    1590566,
+    1590567,
+    1590610,
+    1767240
+  ]
 }
