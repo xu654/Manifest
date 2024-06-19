@@ -5,5 +5,12 @@
   "LastRefresh": "2024-06-09T23:19:53.2934527+00:00",
   "Index": "SWRN7-RYZQ",
   "AesEncrypted": true,
-  "AesIV": "TEG0aI48T7ipptKHRNheGA=="
+  "AesIV": "TEG0aI48T7ipptKHRNheGA==",
+  "AppIds": [
+    2262770,
+    2311190,
+    2383120,
+    2499800,
+    2693060
+  ]
 }
