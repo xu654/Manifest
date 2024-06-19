@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-11T22:14:54.3481403+00:00",
   "Index": "ARK44-RCTG",
   "AesEncrypted": true,
-  "AesIV": "v5MRHUJpGzT47CU1ffGvpw=="
+  "AesIV": "v5MRHUJpGzT47CU1ffGvpw==",
+  "AppIds": [
+    1123050
+  ]
 }
