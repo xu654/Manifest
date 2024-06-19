@@ -5,5 +5,10 @@
   "LastRefresh": "2024-06-10T09:23:10.3193107+00:00",
   "Index": "SEDPX-WNTA",
   "AesEncrypted": true,
-  "AesIV": "wAWi4ByqEmM9SvgFVZn0xg=="
+  "AesIV": "wAWi4ByqEmM9SvgFVZn0xg==",
+  "AppIds": [
+    526790,
+    1052760,
+    1295510
+  ]
 }
