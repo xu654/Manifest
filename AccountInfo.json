@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-08T07:16:48.4974041+00:00",
   "Index": "SPXFV-FN3J",
   "AesEncrypted": true,
-  "AesIV": "FGU06GeTAaDk/Kc+Lch16w=="
+  "AesIV": "FGU06GeTAaDk/Kc+Lch16w==",
+  "AppIds": [
+    2072450,
+    2562820,
+    2562830,
+    2562840,
+    2562850,
+    2562860,
+    2584300
+  ]
 }
