@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-05T16:19:02.8203112+00:00",
   "Index": "AEPRM-SXSC",
   "AesEncrypted": true,
-  "AesIV": "Xekq79zR3dEBccf4H0CqzA=="
+  "AesIV": "Xekq79zR3dEBccf4H0CqzA==",
+  "AppIds": [
+    775500,
+    1590551,
+    1590560,
+    1590561,
+    1590562,
+    1590565,
+    1590610
+  ]
 }
