@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-17T08:20:04.909312+00:00",
   "Index": "SVHU6-PFUN",
   "AesEncrypted": true,
-  "AesIV": "sLGPbHEqY36aw+Ulo0ZGsw=="
+  "AesIV": "sLGPbHEqY36aw+Ulo0ZGsw==",
+  "AppIds": [
+    368360
+  ]
 }
