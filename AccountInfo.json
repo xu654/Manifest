@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-08T01:02:59.484918+00:00",
   "Index": "AVXTV-X3ZE",
   "AesEncrypted": true,
-  "AesIV": "wG0RQlTJVkZ1aWjZVPAH9w=="
+  "AesIV": "wG0RQlTJVkZ1aWjZVPAH9w==",
+  "AppIds": [
+    2101080
+  ]
 }
