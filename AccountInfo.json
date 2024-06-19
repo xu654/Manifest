@@ -5,11 +5,5 @@
   "LastRefresh": "2024-05-28T15:42:19.5415586+00:00",
   "Index": "SKNED-VHUQ",
   "AesEncrypted": true,
-  "AesIV": "cJu6q99ILCTCEEmq6usUCA==",
-  "AppIds": [
-    10180,
-    10190,
-    10195,
-    10196
-  ]
+  "AesIV": "cJu6q99ILCTCEEmq6usUCA=="
 }
