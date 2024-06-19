@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-08T13:15:00.6531986+00:00",
   "Index": "SXYME-VKVN",
   "AesEncrypted": true,
-  "AesIV": "fDm6d6pwCBXJJSbbnXbGow=="
+  "AesIV": "fDm6d6pwCBXJJSbbnXbGow==",
+  "AppIds": [
+    1151640
+  ]
 }
