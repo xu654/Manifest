@@ -5,5 +5,12 @@
   "LastRefresh": "2024-06-08T12:32:06.3046371+00:00",
   "Index": "S3AMB-YJSN",
   "AesEncrypted": true,
-  "AesIV": "BvFiTf/MDRPHrdll3/RA+w=="
+  "AesIV": "BvFiTf/MDRPHrdll3/RA+w==",
+  "AppIds": [
+    1097840,
+    1117250,
+    1178490,
+    1184050,
+    1415070
+  ]
 }
