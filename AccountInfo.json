@@ -5,5 +5,9 @@
   "LastRefresh": "2024-06-02T07:15:25.4807003+00:00",
   "Index": "ADW2D-KVVG",
   "AesEncrypted": true,
-  "AesIV": "EUMatzGQ10XlQgZjmX9k9Q=="
+  "AesIV": "EUMatzGQ10XlQgZjmX9k9Q==",
+  "AppIds": [
+    448250,
+    681280
+  ]
 }
