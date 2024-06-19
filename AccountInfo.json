@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-05T22:16:24.579301+00:00",
   "Index": "SQB2U-LSTA",
   "AesEncrypted": true,
-  "AesIV": "YL0QkXH0cI8Sz6nHNF160Q=="
+  "AesIV": "YL0QkXH0cI8Sz6nHNF160Q==",
+  "AppIds": [
+    1282730
+  ]
 }
