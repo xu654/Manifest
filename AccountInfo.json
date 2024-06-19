@@ -5,5 +5,12 @@
   "LastRefresh": "2024-05-26T18:42:09.2487112+00:00",
   "Index": "SRDMQ-2PZQ",
   "AesEncrypted": true,
-  "AesIV": "exvInSJO+okb/ML7sgcMuQ=="
+  "AesIV": "exvInSJO+okb/ML7sgcMuQ==",
+  "AppIds": [
+    2387870,
+    2387890,
+    2387880,
+    2370550,
+    1501750
+  ]
 }
