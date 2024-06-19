@@ -5,5 +5,11 @@
   "LastRefresh": "2024-05-22T19:38:55.9576092+00:00",
   "Index": "AV4RA-VGTQ",
   "AesEncrypted": true,
-  "AesIV": "opc0+FC7jjOianNoW0ZWQQ=="
+  "AesIV": "opc0+FC7jjOianNoW0ZWQQ==",
+  "AppIds": [
+    726110,
+    1008510,
+    1057180,
+    1614270
+  ]
 }
