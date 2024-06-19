@@ -5,5 +5,15 @@
   "LastRefresh": "2024-06-11T08:23:18.1247594+00:00",
   "Index": "SRMR6-LCYC",
   "AesEncrypted": true,
-  "AesIV": "hFWf+L8RnL/MHu0D8uVRow=="
+  "AesIV": "hFWf+L8RnL/MHu0D8uVRow==",
+  "AppIds": [
+    875210,
+    1437820,
+    1437830,
+    1437840,
+    1437850,
+    1437860,
+    1437870,
+    1437880
+  ]
 }
