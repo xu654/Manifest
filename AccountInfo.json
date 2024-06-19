@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-07T01:06:21.1788129+00:00",
   "Index": "SEACD-TKUN",
   "AesEncrypted": true,
-  "AesIV": "vdo2JKkV2+2g0GQi0vRE2g=="
+  "AesIV": "vdo2JKkV2+2g0GQi0vRE2g==",
+  "AppIds": [
+    1603640
+  ]
 }
