@@ -5,5 +5,9 @@
   "LastRefresh": "2024-06-05T23:19:31.8034082+00:00",
   "Index": "A3EHR-TEXN",
   "AesEncrypted": true,
-  "AesIV": "7chQwHvpl84fSkdPsfpXjQ=="
+  "AesIV": "7chQwHvpl84fSkdPsfpXjQ==",
+  "AppIds": [
+    2782850,
+    2321470
+  ]
 }
