@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-10T18:23:50.3177246+00:00",
   "Index": "SPQML-YEUN",
   "AesEncrypted": true,
-  "AesIV": "iWs6a28IGDi3+Fvvw2qh0w=="
+  "AesIV": "iWs6a28IGDi3+Fvvw2qh0w==",
+  "AppIds": [
+    921800,
+    1133090,
+    1133130,
+    1199030,
+    1209480,
+    1224020,
+    1550510
+  ]
 }
