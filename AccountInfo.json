@@ -5,5 +5,19 @@
   "LastRefresh": "2024-05-26T07:39:05.3146144+00:00",
   "Index": "A4PTP-QYYL",
   "AesEncrypted": true,
-  "AesIV": "h5SPMN+EJ92ipozII5cUDg=="
+  "AesIV": "h5SPMN+EJ92ipozII5cUDg==",
+  "AppIds": [
+    618140,
+    1020790,
+    2171320,
+    2171321,
+    2171324,
+    2171325,
+    2171326,
+    2171327,
+    2171328,
+    2171332,
+    2542820,
+    2592240
+  ]
 }
