@@ -5,5 +5,20 @@
   "LastRefresh": "2024-06-12T19:15:29.0561385+00:00",
   "Index": "S46VM-SHUQ",
   "AesEncrypted": true,
-  "AesIV": "spdcBgXt7DMUcntfI0ksfg=="
+  "AesIV": "spdcBgXt7DMUcntfI0ksfg==",
+  "AppIds": [
+    345180,
+    349040,
+    397910,
+    397920,
+    397930,
+    416420,
+    416421,
+    416422,
+    462290,
+    493880,
+    495160,
+    1097200,
+    1142330
+  ]
 }
