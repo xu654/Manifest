@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-15T08:22:01.8364633+00:00",
   "Index": "S54HR-WWXL",
   "AesEncrypted": true,
-  "AesIV": "NPp6cxuM7k0uh9bMpHLdkw=="
+  "AesIV": "NPp6cxuM7k0uh9bMpHLdkw==",
+  "AppIds": [
+    1948980
+  ]
 }
