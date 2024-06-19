@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-14T18:24:55.0415674+00:00",
   "Index": "SNXQL-S6SN",
   "AesEncrypted": true,
-  "AesIV": "Av30PltZBNabCORWJWiE+Q=="
+  "AesIV": "Av30PltZBNabCORWJWiE+Q==",
+  "AppIds": [
+    1017180
+  ]
 }
