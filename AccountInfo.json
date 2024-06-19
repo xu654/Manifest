@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-21T20:21:57.6531401+00:00",
   "Index": "S5G42-THXC",
   "AesEncrypted": true,
-  "AesIV": "/T24p5oigX9Baihw1vGZoQ=="
+  "AesIV": "/T24p5oigX9Baihw1vGZoQ==",
+  "AppIds": [
+    1868140
+  ]
 }
