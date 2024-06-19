@@ -5,5 +5,12 @@
   "LastRefresh": "2024-05-31T12:33:13.9240594+00:00",
   "Index": "APNM2-VHTQ",
   "AesEncrypted": true,
-  "AesIV": "C21Do9pUc83ilNK6XXZd2g=="
+  "AesIV": "C21Do9pUc83ilNK6XXZd2g==",
+  "AppIds": [
+    1443660,
+    951430,
+    363930,
+    1205600,
+    942970
+  ]
 }
