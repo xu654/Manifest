@@ -5,5 +5,13 @@
   "LastRefresh": "2024-05-23T23:14:17.2947137+00:00",
   "Index": "SANBA-TKVN",
   "AesEncrypted": true,
-  "AesIV": "6nCqL0Yp3uw3jiimm+dN5w=="
+  "AesIV": "6nCqL0Yp3uw3jiimm+dN5w==",
+  "AppIds": [
+    939850,
+    1016230,
+    1167920,
+    1194630,
+    1259810,
+    1537710
+  ]
 }
