@@ -5,5 +5,13 @@
   "LastRefresh": "2024-05-25T16:44:24.3532066+00:00",
   "Index": "SQXNY-ARVA",
   "AesEncrypted": true,
-  "AesIV": "eadsKSYmcNRNt2t0fGNEBw=="
+  "AesIV": "eadsKSYmcNRNt2t0fGNEBw==",
+  "AppIds": [
+    966350,
+    1103840,
+    1147010,
+    1146960,
+    1125020,
+    323190
+  ]
 }
