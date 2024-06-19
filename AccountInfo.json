@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-29T01:01:04.0548684+00:00",
   "Index": "SMDML-NGZJ",
   "AesEncrypted": true,
-  "AesIV": "kOk0A0SX1XPsEUJBIC5vwQ=="
+  "AesIV": "kOk0A0SX1XPsEUJBIC5vwQ==",
+  "AppIds": [
+    814380
+  ]
 }
