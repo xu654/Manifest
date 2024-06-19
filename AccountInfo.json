@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-17T05:22:41.875723+00:00",
   "Index": "AT62S-MBVJ",
   "AesEncrypted": true,
-  "AesIV": "GIR81Ua870KaGzkRTXcG6Q=="
+  "AesIV": "GIR81Ua870KaGzkRTXcG6Q==",
+  "AppIds": [
+    105600,
+    433340,
+    671160,
+    897880,
+    1079180,
+    1207000,
+    1281930
+  ]
 }
