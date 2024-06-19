@@ -5,5 +5,9 @@
   "LastRefresh": "2024-05-24T10:20:02.9250794+00:00",
   "Index": "S5TNA-TGUQ",
   "AesEncrypted": true,
-  "AesIV": "zm7CkB9c6KpOcQGMkrx+zw=="
+  "AesIV": "zm7CkB9c6KpOcQGMkrx+zw==",
+  "AppIds": [
+    387990,
+    588870
+  ]
 }
