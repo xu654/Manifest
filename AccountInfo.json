@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-08T22:15:24.8323856+00:00",
   "Index": "SBLCU-KWYC",
   "AesEncrypted": true,
-  "AesIV": "FzJ2V88skqShXlIII/ssdw=="
+  "AesIV": "FzJ2V88skqShXlIII/ssdw==",
+  "AppIds": [
+    1659420
+  ]
 }
