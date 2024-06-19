@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-05T06:22:20.4302585+00:00",
   "Index": "ANA2W-BD3C",
   "AesEncrypted": true,
-  "AesIV": "JagsmP2y/onUV6jD6Wct1Q=="
+  "AesIV": "JagsmP2y/onUV6jD6Wct1Q==",
+  "AppIds": [
+    2155180
+  ]
 }
