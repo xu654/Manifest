@@ -5,5 +5,9 @@
   "LastRefresh": "2024-06-02T01:07:18.9105028+00:00",
   "Index": "S7VHB-PGXE",
   "AesEncrypted": true,
-  "AesIV": "ODGapLs/TIiszt+w4k2fPg=="
+  "AesIV": "ODGapLs/TIiszt+w4k2fPg==",
+  "AppIds": [
+    2194410,
+    814380
+  ]
 }
