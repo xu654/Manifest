@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-24T22:14:43.5106606+00:00",
   "Index": "SSCAC-ZGVN",
   "AesEncrypted": true,
-  "AesIV": "wkdbyD/VkoT7sQaz2U2WEw=="
+  "AesIV": "wkdbyD/VkoT7sQaz2U2WEw==",
+  "AppIds": [
+    403190,
+    858810,
+    1311070
+  ]
 }
