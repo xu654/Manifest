@@ -5,5 +5,20 @@
   "LastRefresh": "2024-06-11T19:15:04.196638+00:00",
   "Index": "AWSB3-MDXC",
   "AesEncrypted": true,
-  "AesIV": "LoL8SaA0xEGWEXjQorgNqw=="
+  "AesIV": "LoL8SaA0xEGWEXjQorgNqw==",
+  "AppIds": [
+    261570,
+    268910,
+    387290,
+    433340,
+    592480,
+    751780,
+    753640,
+    881100,
+    1057090,
+    1072561,
+    1117850,
+    1161410,
+    1218210
+  ]
 }
