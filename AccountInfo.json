@@ -5,5 +5,18 @@
   "LastRefresh": "2024-05-29T03:20:22.8812213+00:00",
   "Index": "AGK4C-ZDVJ",
   "AesEncrypted": true,
-  "AesIV": "ETF2iy/4Yt8mwuKV3JGk7g=="
+  "AesIV": "ETF2iy/4Yt8mwuKV3JGk7g==",
+  "AppIds": [
+    440820,
+    1040230,
+    1111460,
+    1164250,
+    1296830,
+    1690330,
+    1751920,
+    1755300,
+    1796160,
+    1796170,
+    1809310
+  ]
 }
