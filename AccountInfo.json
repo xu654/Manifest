@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-04T09:24:04.1129975+00:00",
   "Index": "APMAL-KHUN",
   "AesEncrypted": true,
-  "AesIV": "wrZ6prc2Fiit0/7S2nm6Uw=="
+  "AesIV": "wrZ6prc2Fiit0/7S2nm6Uw==",
+  "AppIds": [
+    1097200
+  ]
 }
