@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-25T02:26:07.1513637+00:00",
   "Index": "ARSN3-VGUQ",
   "AesEncrypted": true,
-  "AesIV": "DBiHIP3TH2UjORButCgkEg=="
+  "AesIV": "DBiHIP3TH2UjORButCgkEg==",
+  "AppIds": [
+    337320,
+    681280,
+    1272320
+  ]
 }
