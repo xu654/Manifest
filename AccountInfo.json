@@ -5,11 +5,5 @@
   "LastRefresh": "2024-05-23T09:24:22.6429899+00:00",
   "Index": "AHCVE-U6SE",
   "AesEncrypted": true,
-  "AesIV": "ycB/tGCW92MJVStwaCTKZw==",
-  "AppIds": [
-    621060,
-    1520500,
-    1547890,
-    1903410
-  ]
+  "AesIV": "ycB/tGCW92MJVStwaCTKZw=="
 }
