@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-20T15:14:57.1594606+00:00",
   "Index": "SANFR-WDSE",
   "AesEncrypted": true,
-  "AesIV": "daye3xCoFuE9lN4o5SQvdw=="
+  "AesIV": "daye3xCoFuE9lN4o5SQvdw==",
+  "AppIds": [
+    1129580
+  ]
 }
