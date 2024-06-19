@@ -5,5 +5,16 @@
   "LastRefresh": "2024-05-23T21:42:33.0034045+00:00",
   "Index": "AYT4U-UXPQ",
   "AesEncrypted": true,
-  "AesIV": "r8nyvIurCJdsRKouLfcbgg=="
+  "AesIV": "r8nyvIurCJdsRKouLfcbgg==",
+  "AppIds": [
+    38400,
+    38410,
+    38420,
+    548570,
+    692850,
+    1029890,
+    1054920,
+    1151340,
+    1836200
+  ]
 }
