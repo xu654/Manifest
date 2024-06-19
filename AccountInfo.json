@@ -5,5 +5,13 @@
   "LastRefresh": "2024-06-04T07:16:51.7022292+00:00",
   "Index": "ACQAK-UHTN",
   "AesEncrypted": true,
-  "AesIV": "cVh5+LWt4WSTQA04N850MQ=="
+  "AesIV": "cVh5+LWt4WSTQA04N850MQ==",
+  "AppIds": [
+    936790,
+    1265920,
+    1265930,
+    1450570,
+    1450572,
+    1571390
+  ]
 }
