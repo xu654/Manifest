@@ -5,5 +5,12 @@
   "LastRefresh": "2024-06-18T06:22:04.1133908+00:00",
   "Index": "ANMV8-SGUN",
   "AesEncrypted": true,
-  "AesIV": "l7SxYcMvxpmlR7+YrzmGtg=="
+  "AesIV": "l7SxYcMvxpmlR7+YrzmGtg==",
+  "AppIds": [
+    911430,
+    921570,
+    1594320,
+    2004660,
+    2004740
+  ]
 }
