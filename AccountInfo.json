@@ -5,5 +5,15 @@
   "LastRefresh": "2024-05-23T14:40:54.2526548+00:00",
   "Index": "AWJG5-KEZA",
   "AesEncrypted": true,
-  "AesIV": "MtwyyLvfz6VqTCDTiIn6iA=="
+  "AesIV": "MtwyyLvfz6VqTCDTiIn6iA==",
+  "AppIds": [
+    49520,
+    49536,
+    49537,
+    49538,
+    379720,
+    489630,
+    552500,
+    737040
+  ]
 }
