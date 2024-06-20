@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-13T12:34:50.6865857+00:00",
   "Index": "ACTLV-VGVN",
   "AesEncrypted": true,
-  "AesIV": "WiBVbaNN5PGVlrdXRFvnYQ=="
+  "AesIV": "WiBVbaNN5PGVlrdXRFvnYQ==",
+  "AppIds": [
+    332950,
+    787810,
+    1017030,
+    1019930,
+    1019931,
+    1022850,
+    1207470
+  ]
 }
