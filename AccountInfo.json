@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-24T05:20:29.1350844+00:00",
   "Index": "SPMSV-XHTN",
   "AesEncrypted": true,
-  "AesIV": "gocZn4x//0WVeKEeklvsPQ=="
+  "AesIV": "gocZn4x//0WVeKEeklvsPQ==",
+  "AppIds": [
+    334310,
+    1558310,
+    1740720
+  ]
 }
