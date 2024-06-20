@@ -5,5 +5,12 @@
   "LastRefresh": "2024-05-24T09:39:04.8397496+00:00",
   "Index": "AMRTE-SKVN",
   "AesEncrypted": true,
-  "AesIV": "a8LPw5RiroemLQsALFOYiQ=="
+  "AesIV": "a8LPw5RiroemLQsALFOYiQ==",
+  "AppIds": [
+    951440,
+    1471180,
+    1691150,
+    1698830,
+    2017030
+  ]
 }
