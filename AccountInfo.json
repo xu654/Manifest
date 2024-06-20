@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-30T19:16:33.0723848+00:00",
   "Index": "AM5EL-YGTN",
   "AesEncrypted": true,
-  "AesIV": "EItrt4o428svmwEqcPD1jg=="
+  "AesIV": "EItrt4o428svmwEqcPD1jg==",
+  "AppIds": [
+    1594940,
+    1599340,
+    1697950
+  ]
 }
