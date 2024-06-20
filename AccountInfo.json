@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-30T12:27:04.5998651+00:00",
   "Index": "AP838-WZZL",
   "AesEncrypted": true,
-  "AesIV": "JKvZI+tp8iy16LAV5UaXBA=="
+  "AesIV": "JKvZI+tp8iy16LAV5UaXBA==",
+  "AppIds": [
+    1331550
+  ]
 }
