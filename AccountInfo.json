@@ -5,5 +5,13 @@
   "LastRefresh": "2024-05-21T20:19:01.9286478+00:00",
   "Index": "S52S6-Q6VG",
   "AesEncrypted": true,
-  "AesIV": "YwqEghy7ZLjDzkqkeC4PeQ=="
+  "AesIV": "YwqEghy7ZLjDzkqkeC4PeQ==",
+  "AppIds": [
+    1324030,
+    1435790,
+    1918920,
+    1942100,
+    2000170,
+    2644870
+  ]
 }
