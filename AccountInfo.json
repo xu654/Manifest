@@ -5,5 +5,10 @@
   "LastRefresh": "2024-06-15T20:21:20.1039809+00:00",
   "Index": "AXLEY-XGTN",
   "AesEncrypted": true,
-  "AesIV": "unzJkhjBwAAwtHWY4qHCsQ=="
+  "AesIV": "unzJkhjBwAAwtHWY4qHCsQ==",
+  "AppIds": [
+    632300,
+    1209990,
+    1705220
+  ]
 }
