@@ -5,5 +5,9 @@
   "LastRefresh": "2024-06-18T11:14:14.9169578+00:00",
   "Index": "AWS9E-7NZN",
   "AesEncrypted": true,
-  "AesIV": "RYl7zhOqsaJKNLyC6ymFPQ=="
+  "AesIV": "RYl7zhOqsaJKNLyC6ymFPQ==",
+  "AppIds": [
+    2375550,
+    2438750
+  ]
 }
