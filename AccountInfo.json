@@ -5,5 +5,12 @@
   "LastRefresh": "2024-05-21T23:17:55.8264319+00:00",
   "Index": "ABBNR-WHTQ",
   "AesEncrypted": true,
-  "AesIV": "q+GsMFsongLBvuhRWXnUdw=="
+  "AesIV": "q+GsMFsongLBvuhRWXnUdw==",
+  "AppIds": [
+    871420,
+    872410,
+    1039100,
+    1401400,
+    1427650
+  ]
 }
