@@ -5,5 +5,20 @@
   "LastRefresh": "2024-06-19T02:34:03.9883638+00:00",
   "Index": "SRZWS-NDWG",
   "AesEncrypted": true,
-  "AesIV": "YCAwi8MRHwUyHUOVyyKaOQ=="
+  "AesIV": "YCAwi8MRHwUyHUOVyyKaOQ==",
+  "AppIds": [
+    348020,
+    1659040,
+    1829592,
+    1829593,
+    1829594,
+    1829595,
+    1829600,
+    1829601,
+    1829602,
+    1829603,
+    1829604,
+    1829605,
+    1843460
+  ]
 }
