@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-17T08:22:58.806704+00:00",
   "Index": "SHMUK-36PG",
   "AesEncrypted": true,
-  "AesIV": "az+MzNGv2C8zIvXeRXKLXg=="
+  "AesIV": "az+MzNGv2C8zIvXeRXKLXg==",
+  "AppIds": [
+    588650,
+    665380,
+    1204130,
+    1393790,
+    1451460,
+    1580050,
+    2101430
+  ]
 }
