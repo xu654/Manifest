@@ -5,5 +5,13 @@
   "LastRefresh": "2024-06-19T08:39:29.7841279+00:00",
   "Index": "AN77H-SGVN",
   "AesEncrypted": true,
-  "AesIV": "kuFnPXxBVrHle3khjDBgYg=="
+  "AesIV": "kuFnPXxBVrHle3khjDBgYg==",
+  "AppIds": [
+    588160,
+    600480,
+    1315300,
+    1318690,
+    1339440,
+    1625400
+  ]
 }
