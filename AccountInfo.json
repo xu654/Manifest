@@ -5,5 +5,9 @@
   "LastRefresh": "2024-06-18T23:22:18.2724951+00:00",
   "Index": "SDD3T-WNRE",
   "AesEncrypted": true,
-  "AesIV": "3OLT3g4oIokFygUiyyW7rQ=="
+  "AesIV": "3OLT3g4oIokFygUiyyW7rQ==",
+  "AppIds": [
+    233860,
+    233870
+  ]
 }
