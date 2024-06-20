@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-07T13:22:52.9882397+00:00",
   "Index": "A47WS-7UWJ",
   "AesEncrypted": true,
-  "AesIV": "4pdEDh/naMOtovUb/u2tXQ=="
+  "AesIV": "4pdEDh/naMOtovUb/u2tXQ==",
+  "AppIds": [
+    835960
+  ]
 }
