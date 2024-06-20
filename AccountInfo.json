@@ -5,5 +5,9 @@
   "LastRefresh": "2024-05-21T12:29:00.6160819+00:00",
   "Index": "SSPQH-ZYTE",
   "AesEncrypted": true,
-  "AesIV": "rcUSDiSwfpWdcOvQB5KIBg=="
+  "AesIV": "rcUSDiSwfpWdcOvQB5KIBg==",
+  "AppIds": [
+    753640,
+    1622100
+  ]
 }
