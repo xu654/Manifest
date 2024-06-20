@@ -5,5 +5,14 @@
   "LastRefresh": "2024-05-23T06:24:57.486913+00:00",
   "Index": "AWHS9-ACTL",
   "AesEncrypted": true,
-  "AesIV": "YnW+7VtN+cqCWwziM1uqqA=="
+  "AesIV": "YnW+7VtN+cqCWwziM1uqqA==",
+  "AppIds": [
+    612880,
+    624620,
+    624621,
+    624622,
+    624740,
+    650410,
+    719980
+  ]
 }
