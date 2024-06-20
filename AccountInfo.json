@@ -5,5 +5,9 @@
   "LastRefresh": "2024-06-04T21:15:53.849888+00:00",
   "Index": "SENN7-THSQ",
   "AesEncrypted": true,
-  "AesIV": "FQOc8gIWWutjraBVv7mgNg=="
+  "AesIV": "FQOc8gIWWutjraBVv7mgNg==",
+  "AppIds": [
+    1731460,
+    1942280
+  ]
 }
