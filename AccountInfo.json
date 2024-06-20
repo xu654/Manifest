@@ -5,5 +5,23 @@
   "LastRefresh": "2024-05-29T10:16:41.2041191+00:00",
   "Index": "SB53D-SGVN",
   "AesEncrypted": true,
-  "AesIV": "QFtXaWtxkTBfc4pIF4jLeA=="
+  "AesIV": "QFtXaWtxkTBfc4pIF4jLeA==",
+  "AppIds": [
+    394510,
+    395230,
+    395231,
+    395232,
+    395233,
+    395234,
+    395235,
+    395236,
+    395237,
+    395238,
+    395239,
+    396170,
+    396171,
+    396172,
+    396173,
+    1089980
+  ]
 }
