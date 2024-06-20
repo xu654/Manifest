@@ -5,5 +5,11 @@
   "LastRefresh": "2024-06-17T04:20:44.6575121+00:00",
   "Index": "AV27M-6HTL",
   "AesEncrypted": true,
-  "AesIV": "uLNOq3PXOrmMCFdcS7/HSQ=="
+  "AesIV": "uLNOq3PXOrmMCFdcS7/HSQ==",
+  "AppIds": [
+    990080,
+    1880830,
+    1880832,
+    1880837
+  ]
 }
