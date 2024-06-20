@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-24T06:22:36.5443031+00:00",
   "Index": "AKJD3-XGUN",
   "AesEncrypted": true,
-  "AesIV": "OtAdiV+NR7vAFAiS87+iwQ=="
+  "AesIV": "OtAdiV+NR7vAFAiS87+iwQ==",
+  "AppIds": [
+    1147560,
+    1221250,
+    2512790
+  ]
 }
