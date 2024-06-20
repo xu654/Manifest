@@ -5,5 +5,11 @@
   "LastRefresh": "2024-06-17T11:16:19.5995952+00:00",
   "Index": "SK83F-BBYN",
   "AesEncrypted": true,
-  "AesIV": "Og4nqPaGcoKzedhscyfCIw=="
+  "AesIV": "Og4nqPaGcoKzedhscyfCIw==",
+  "AppIds": [
+    1237320,
+    2079300,
+    2079301,
+    2093240
+  ]
 }
