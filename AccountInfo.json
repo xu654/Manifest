@@ -5,5 +5,9 @@
   "LastRefresh": "2024-05-23T21:40:35.7007302+00:00",
   "Index": "AF5AZ-JSUC",
   "AesEncrypted": true,
-  "AesIV": "fyxultY8ASax8r8Hiq0wfg=="
+  "AesIV": "fyxultY8ASax8r8Hiq0wfg==",
+  "AppIds": [
+    1089350,
+    1128701
+  ]
 }
