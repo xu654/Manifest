@@ -5,5 +5,18 @@
   "LastRefresh": "2024-06-05T06:20:56.3550623+00:00",
   "Index": "SURG8-SGUN",
   "AesEncrypted": true,
-  "AesIV": "vyyyBZ12esOKdMH91hutSw=="
+  "AesIV": "vyyyBZ12esOKdMH91hutSw==",
+  "AppIds": [
+    230230,
+    307400,
+    322490,
+    373420,
+    428790,
+    435150,
+    664400,
+    717550,
+    880640,
+    1597290,
+    1702810
+  ]
 }
