@@ -5,5 +5,20 @@
   "LastRefresh": "2024-06-13T08:22:07.1769304+00:00",
   "Index": "SAKFQ-PLXL",
   "AesEncrypted": true,
-  "AesIV": "3eIxCQHNybSiB/kU11CpVA=="
+  "AesIV": "3eIxCQHNybSiB/kU11CpVA==",
+  "AppIds": [
+    673450,
+    755980,
+    1623730,
+    1938090,
+    1962663,
+    2394010,
+    2519060,
+    2519070,
+    2519090,
+    2519110,
+    2522130,
+    2540920,
+    2573900
+  ]
 }
