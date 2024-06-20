@@ -5,5 +5,12 @@
   "LastRefresh": "2024-05-28T02:46:41.5548833+00:00",
   "Index": "S36KX-VXWA",
   "AesEncrypted": true,
-  "AesIV": "nO5kMZGugJDBhYGRWmChRw=="
+  "AesIV": "nO5kMZGugJDBhYGRWmChRw==",
+  "AppIds": [
+    246420,
+    458710,
+    816340,
+    1367550,
+    2695220
+  ]
 }
