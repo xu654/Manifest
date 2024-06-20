@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-30T18:25:31.0425055+00:00",
   "Index": "SAPXL-LJSE",
   "AesEncrypted": true,
-  "AesIV": "ir+zW5gAj/y+KoQdfUr9UA=="
+  "AesIV": "ir+zW5gAj/y+KoQdfUr9UA==",
+  "AppIds": [
+    1325200
+  ]
 }
