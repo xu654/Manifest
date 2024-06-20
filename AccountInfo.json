@@ -5,5 +5,10 @@
   "LastRefresh": "2024-06-15T11:18:07.3853698+00:00",
   "Index": "SPX4E-7TTN",
   "AesEncrypted": true,
-  "AesIV": "IkMioYAyGulPp5811ZsGiA=="
+  "AesIV": "IkMioYAyGulPp5811ZsGiA==",
+  "AppIds": [
+    1527950,
+    2692400,
+    2903960
+  ]
 }
