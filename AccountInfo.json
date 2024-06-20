@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-28T18:44:10.4613056+00:00",
   "Index": "SDUBR-46WQ",
   "AesEncrypted": true,
-  "AesIV": "ncCuEGjSPMEfh/L7lCCswg=="
+  "AesIV": "ncCuEGjSPMEfh/L7lCCswg==",
+  "AppIds": [
+    2140020
+  ]
 }
