@@ -5,5 +5,10 @@
   "LastRefresh": "2024-05-23T09:36:46.1169929+00:00",
   "Index": "S3DTX-SGTN",
   "AesEncrypted": true,
-  "AesIV": "9WtETM/aXJqxTG+pW00dWg=="
+  "AesIV": "9WtETM/aXJqxTG+pW00dWg==",
+  "AppIds": [
+    361420,
+    728470,
+    1203930
+  ]
 }
