@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-13T09:23:31.8444287+00:00",
   "Index": "AJAJU-WBTL",
   "AesEncrypted": true,
-  "AesIV": "+vf8uc88wYe846J2iAMRzA=="
+  "AesIV": "+vf8uc88wYe846J2iAMRzA==",
+  "AppIds": [
+    536270
+  ]
 }
