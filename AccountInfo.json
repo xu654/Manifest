@@ -5,5 +5,9 @@
   "LastRefresh": "2024-05-29T13:20:30.2576952+00:00",
   "Index": "SCP68-XVSQ",
   "AesEncrypted": true,
-  "AesIV": "AXCu30bLaXoRKyYAD9NSkA=="
+  "AesIV": "AXCu30bLaXoRKyYAD9NSkA==",
+  "AppIds": [
+    1027880,
+    1162520
+  ]
 }
