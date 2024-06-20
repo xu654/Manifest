@@ -5,5 +5,12 @@
   "LastRefresh": "2024-05-23T17:18:04.551004+00:00",
   "Index": "SCPCX-XGTQ",
   "AesEncrypted": true,
-  "AesIV": "+NkMDcjPnKN+TIT9T+FOgw=="
+  "AesIV": "+NkMDcjPnKN+TIT9T+FOgw==",
+  "AppIds": [
+    233720,
+    317960,
+    752590,
+    774791,
+    967380
+  ]
 }
