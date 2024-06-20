@@ -5,5 +5,8 @@
   "LastRefresh": "2024-06-19T19:13:18.5263121+00:00",
   "Index": "AMS6P-RYXJ",
   "AesEncrypted": true,
-  "AesIV": "yc5upBV9AU1TuiPwQZZdCQ=="
+  "AesIV": "yc5upBV9AU1TuiPwQZZdCQ==",
+  "AppIds": [
+    1817190
+  ]
 }
