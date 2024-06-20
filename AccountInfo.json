@@ -5,5 +5,10 @@
   "LastRefresh": "2024-06-08T11:12:52.2040381+00:00",
   "Index": "SWLNT-68WC",
   "AesEncrypted": true,
-  "AesIV": "Cmp827/5e2VugS/FGL3shg=="
+  "AesIV": "Cmp827/5e2VugS/FGL3shg==",
+  "AppIds": [
+    108710,
+    108726,
+    202750
+  ]
 }
