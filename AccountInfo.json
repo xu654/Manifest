@@ -5,5 +5,16 @@
   "LastRefresh": "2024-05-28T06:40:05.5696154+00:00",
   "Index": "S5WSV-APWL",
   "AesEncrypted": true,
-  "AesIV": "b798F8X+zZ0CD7VV9mi9sg=="
+  "AesIV": "b798F8X+zZ0CD7VV9mi9sg==",
+  "AppIds": [
+    1448440,
+    2205890,
+    2205891,
+    2205892,
+    2205893,
+    2205894,
+    2205895,
+    2205896,
+    2232890
+  ]
 }
