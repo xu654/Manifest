@@ -5,5 +5,8 @@
   "LastRefresh": "2024-05-23T12:27:18.6717018+00:00",
   "Index": "SZ37S-WYXJ",
   "AesEncrypted": true,
-  "AesIV": "FPmaL92W85dyoq2MLi7+Mw=="
+  "AesIV": "FPmaL92W85dyoq2MLi7+Mw==",
+  "AppIds": [
+    1929610
+  ]
 }
