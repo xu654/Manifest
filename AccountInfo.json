@@ -5,5 +5,14 @@
   "LastRefresh": "2024-06-15T03:16:32.9727529+00:00",
   "Index": "SEPPL-Y6SC",
   "AesEncrypted": true,
-  "AesIV": "uCREpqrMor45ByvJ7zfnVQ=="
+  "AesIV": "uCREpqrMor45ByvJ7zfnVQ==",
+  "AppIds": [
+    1029690,
+    1724940,
+    1724942,
+    1872750,
+    1875170,
+    2053020,
+    2053021
+  ]
 }
