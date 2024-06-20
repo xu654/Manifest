@@ -5,5 +5,22 @@
   "LastRefresh": "2024-06-19T16:45:02.3206186+00:00",
   "Index": "AXSHA-WERN",
   "AesEncrypted": true,
-  "AesIV": "+Y0Nc1/d7cP4cajuzdwqxQ=="
+  "AesIV": "+Y0Nc1/d7cP4cajuzdwqxQ==",
+  "AppIds": [
+    211,
+    215,
+    218,
+    550,
+    563,
+    564,
+    222860,
+    223540,
+    227040,
+    227050,
+    269470,
+    305620,
+    477160,
+    648800,
+    2095000
+  ]
 }
