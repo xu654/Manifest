@@ -2,7 +2,7 @@
   "AccountName": "bullzarasi1989",
   "AccountPassword": "2DR0V2z35LQvgIPbp9c/dw==",
   "RefreshToken": "0OOKD1Cu7qjCBQv0HpJXzCnTshdcjqY/mZx2Ds8GsOjDrUvG/JnqLrbj6Ph1OX5t4u9Cu/i/ERr4w/U74POjjVAYtmr4+BGbywPU0QFlQmwDGz8FfdHjhvL6ocSHsB6sLdN5rOjPlDQx+Y+Lhxnh9sRr7rKXzPJIdNo4p0uAJC6n5Er2K2/CHu6zfp30Dwcg4PasuL4biv+ZJMNyEIiy8C+D9JYsov8TnG/OsFwn5HwYybASCxU7N1xwCHXvdsIwqtqkAUOGC2k2Q/JtBAGvkM2Ads56gQJNIcDc1TkF+iYO5FJSEtn73zdElZJg+FMJcFyqa/js/FjEUBs34dyNPQOn4yjEsSxFADZs+k7UskmfP399k7mF76XHCsVQPLD7JamgR8pHLpKYbPqhet+m+U7jv7mAq5YbAuXSAeShfDZ1DNuMzoo9PFUTgf3nrOYofIqmBMO5C+TrBIklYuZW1BmfmK3uRdFdETKgaVL8OYiNdYAV5MXrv9ex9HHxD+IbJVaPuiVzKfyMYqc1JrczFRitEiGl9rsAVh3GXv9aD0mDDyZQKEXbVrYTxNT3N10mNlyKz+lVb9W4zL07A7168Iq8TGd/SUTVRddPpdYIDYYNWa5v3cMawuu/zGQv9aexMWhs+g2+t2J6wRD0u4qEvg==",
-  "LastRefresh": "2024-07-02T11:09:37.7999867+00:00",
+  "LastRefresh": "2024-07-02T13:14:19.967851+00:00",
   "Index": "SFNX2-KGXE",
   "AesEncrypted": true,
   "AesIV": "gf7/a4BOQGBERXoDNBRU5w==",
@@ -22,6 +22,9 @@
     1017180,
     1349040,
     1685880,
+    1971870,
+    2576740,
+    2576800,
     2777460
   ]
 }
